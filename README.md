@@ -7,8 +7,14 @@ An efficent Script To Generate FUD Persistent Reverse Shell For Red Teaming. Don
        
 # Requirements:
       1. Make sure python3 is installed in windows Or in Linux
-      2. pip install termcolor
-      3. pip install requests
+      For Linux:
+            python3 -m pip install pystyle
+            python3 -m pip install termcolor
+            
+      For Windows:
+            python -m pip install termcolor
+            python -m pip install pystyle
+            
      
 # Installation:
      1. For Linux Users:
