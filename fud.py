@@ -130,4 +130,4 @@ try:
     else:
         print(Fore.RED+'[✖] Something Bad Happened')
 except KeyboardInterrupt:
-    print(Fore.RED+'\n[✖] You Pressed The Exit Buttong')
+    print(Fore.RED+'\n[✖] You Pressed The Exit Button....')
